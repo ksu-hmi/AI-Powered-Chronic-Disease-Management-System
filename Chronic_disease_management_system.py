@@ -49,15 +49,15 @@ risk_proba = model.predict_proba(new_patient)[0][1]
 def health_chatbot(risk_level):
     if risk_level == 1:
         return random.choice([
-            "⚠️ High risk detected. Please consult your doctor immediately.",
-            "💊 Reminder: It's time for your medication.",
-            "📉 Tip: Reduce salt/sugar intake. Stay active!"
+            " High risk detected. Please consult your doctor immediately.",
+            " Reminder: It's time for your medication.",
+            "Tip: Reduce salt/sugar intake. Stay active!"
         ])
     else:
         return random.choice([
-            "✅ Your health is stable. Keep it up!",
-            "🏃‍♂️ Stay active and hydrated!",
-            "🍎 Balanced meals and exercise help keep you well."
+            "Your health is stable. Keep it up!",
+            " Stay active and hydrated!",
+            " Balanced meals and exercise help keep you well."
         ])
 
 # Output
