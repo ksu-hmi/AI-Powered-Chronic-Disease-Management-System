@@ -10,7 +10,7 @@ Chronic illnesses such as diabetes, hypertension, and cardiovascular disease acc
 
 Importance of the Project 
 
-This AI system bridges the gap between patients and healthcare professionals by offering real-time monitoring of health and early identification of health risks. It reduces hospital readmission, improves patient adherence to therapy, and supports early interventions before complications arise.AI-driven data processing enhances patient engagement while alleviating the strain on healthcare resources, which eventually results in better health outcomes and lower medical costs. 
+This AI system bridges the gap between patients and healthcare professionals by offering real-time monitoring of health and early identification of health risks. It reduces hospital readmission, improves patient adherence to therapy, and supports early interventions before complications arise.AI-driven data processing enhances patient engagement while alleviating the strain on healthcare resources, which eventually results in better health outcomes and lower medical costs. It is also important for lowering healthcare costs and decision support for clinicians.
 
  
 
