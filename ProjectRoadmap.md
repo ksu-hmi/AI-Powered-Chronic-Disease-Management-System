@@ -4,6 +4,8 @@ Fork repository into personal Github accounts so we can have access and it can s
 add/edit README file DONE(still editing)
 try put any codes that are similar for our project and input our findings DONE(still editing)
 continue to update or make changes readme (as needed)
-place any diagrams or images in readme or on the github
-discuss any extra information with group members
+place any diagrams or images in readme or on the github 
+discuss any extra information with group members DONE
 update powerpoint presentation as needed
+#Jordyn Notes:
+I put the code in teh README file as well as explaining the inputs so that a certain person can get there results. I put a brief sentence on what the overall program was for after the code is ran. DONE
