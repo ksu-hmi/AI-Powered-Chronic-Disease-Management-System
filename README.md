@@ -139,4 +139,8 @@ Displays the risk score:
 
 Outputs a message showing the user’s predicted chronic disease risk score.
 
+To turn it into an actual app, you would need to:
 
+Create a graphical user interface (GUI) or a web-based interface where users can input their information through forms, buttons, etc.
+
+Optionally, deploy it as a mobile app or web app for easier access.
