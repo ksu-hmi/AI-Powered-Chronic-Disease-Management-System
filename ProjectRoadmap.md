@@ -3,4 +3,7 @@ Create repository for our project DONE
 Fork repository into personal Github accounts so we can have access and it can show on our page. DONE
 add/edit README file DONE(still editing)
 try put any codes that are similar for our project and input our findings DONE(still editing)
-
+continue to update or make changes readme (as needed)
+place any diagrams or images in readme or on the github
+discuss any extra information with group members
+update powerpoint presentation as needed
