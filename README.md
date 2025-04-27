@@ -139,4 +139,4 @@ Displays the risk score:
 
 Outputs a message showing the user’s predicted chronic disease risk score.
 
-The program collects basic health metrics, computes a simple risk estimate, and tells the user their health risk score from 1 to 10 based on those inputs.
+
