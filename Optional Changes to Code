@@ -1,1 +1,30 @@
+This code references a suggestion I made in our project roadmap. I like this change more than my other suggestions which is why I want to include it here. This could would allow users to make more entries without having to start a new session over and over again. 
+def main():   
+print("Welcome to the AI-Powered Chronic Disease Risk Predictor")
+    
+    while True:
+        age = get_valid_input("Enter your age (1-100): ", 1, 100)
+        bmi = get_valid_input("Enter your BMI (20-40): ", 20, 40)
+        systolic_bp = get_valid_input("Enter your systolic blood pressure (70-200): ", 70, 200)
+        diastolic_bp = get_valid_input("Enter your diastolic blood pressure (50-150): ", 50, 150)
+        cholesterol = get_valid_input("Enter your cholesterol level (150-300): ", 150, 300)
+        glucose = get_valid_input("Enter your glucose level (50-500): ", 50, 500)
 
+        risk = predict_risk(age, bmi, systolic_bp, diastolic_bp, cholesterol, glucose)
+        print(f"Predicted Chronic Disease Risk Score (1-10): {risk}")
+
+        data = {
+            "Age": age,
+            "BMI": bmi,
+            "Systolic_BP": systolic_bp,
+            "Diastolic_BP": diastolic_bp,
+            "Cholesterol": cholesterol,
+            "Glucose": glucose,
+            "Risk_Score": risk
+        }
+        save_prediction(data)
+
+        another = input("Would you like to predict another? (yes/no): ").strip().lower()
+        if another != "yes":
+            print("Thank you for using the predictor!")
+            break
