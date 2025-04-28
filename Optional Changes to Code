@@ -1,4 +1,4 @@
-This code references a suggestion I made in our project roadmap. I like this change more than my other suggestions which is why I want to include it here. This could would allow users to make more entries without having to start a new session over and over again. 
+This code references a suggestion I made in our project roadmap (suggestion #3). I like this change more than my other suggestions which is why I want to include it here. This could would allow users to make more entries without having to start a new session over and over again. 
 def main():   
 print("Welcome to the AI-Powered Chronic Disease Risk Predictor")
     
