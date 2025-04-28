@@ -12,4 +12,4 @@ I put the code in teh README file as well as explaining the inputs so that a cer
 Find a way to make the existing code into an app for easier use:
 
 I want to propose a few ideas to my teammates to refine our code. 
-
+1. We could enter a section of code that prompts the user to quit after 3 failed attempts. This way the user does not have to be stuck in bad data.
