@@ -4,7 +4,10 @@ AI-Powered Chronic Disease Management System: Transforming Healthcare with Artif
 
 Introduction 
 
-Chronic illnesses such as diabetes, hypertension, and cardiovascular disease account for over 70% of all mortality globally, posing a significant burden on global healthcare systems.Chronic disease management entails continuous monitoring, early detection, and prompt intervention, yet traditional healthcare systems rely on episodic check-ups and patient self-reporting, which is delayed and inconsistent. This project applies Artificial Intelligence (AI) to transform chronic disease care by combining real-time data monitoring, prediction analysis, and customized advice, to ensure proactive, continuous healthcare delivery
+Chronic illnesses such as diabetes, hypertension, and cardiovascular disease account for over 70% of all mortality globally, posing a significant burden on global healthcare systems.Chronic disease management entails continuous monitoring, early detection, and prompt intervention, yet traditional healthcare systems rely on episodic check-ups and patient self-reporting, which is delayed and inconsistent. This project applies Artificial Intelligence (AI) to transform chronic disease care by combining real-time data monitoring, prediction analysis, and customized advice, to ensure proactive, continuous healthcare delivery.
+
+![image](https://github.com/user-attachments/assets/fdc01fd5-d6b4-4ce2-8f90-41bdf93fbfbc)
+
 
  
 
