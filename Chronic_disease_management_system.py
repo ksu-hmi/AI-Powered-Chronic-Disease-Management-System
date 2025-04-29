@@ -40,3 +40,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+while True:
+    another = input("\nDo you want to enter another patient? (yes/no): ").strip().lower()
+    if another != 'yes':
+        print("Thank you for using the Chronic Disease Management System!")
+        break
