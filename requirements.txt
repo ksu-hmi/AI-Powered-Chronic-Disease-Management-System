@@ -1,0 +1,10 @@
+# requirements.txt
+# This file lists the Python libraries needed to run the AI-Powered Chronic Disease Management System.
+# If you're setting up this project for the first time, install these packages by running:
+# pip install -r requirements.txt
+# This ensures all necessary tools are available for data handling, analysis, and machine learning.
+
+pandas
+numpy
+scikit-learn
+matplotlib
