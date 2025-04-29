@@ -15,3 +15,20 @@ I want to propose a few ideas to my teammates to refine our code.
 1. We could enter a section of code that prompts the user to quit after 3 failed attempts. This way the user does not have to be stuck in bad data.
 2. A section of code that saves patient data to a csv file.
 3. a section of code that lets the user do multiple entries in one session so the user does not have to start the program over and over again.
+
+#Pooja's Keypoints
+To enhance the accessibility and functionality of the AI-powered chronic disease management system, we plan to develop a mobile application for both iOS and Android platforms. 
+This app will allow patients to easily track their health metrics, receive personalized health recommendations, and communicate with healthcare providers in real time. 
+Additionally, we will integrate the system with popular wearable devices, such as Fitbit and Apple Watch, to collect real-time data on physical activity, heart rate, and sleep patterns, further empowering patients to manage their chronic conditions proactively.
+
+
+Future Vision
+
+Personalized Health Recommendations:
+
+Leverage AI to generate customized lifestyle, dietary, and exercise recommendations based on individual patient data.
+
+Blockchain for Data Integrity:
+
+Implement blockchain technology to ensure that patient health records are immutable and secure, promoting transparency and trust in the system.
+
