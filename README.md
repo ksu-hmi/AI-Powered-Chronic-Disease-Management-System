@@ -64,6 +64,8 @@ Chronic Disease Management System Code
 
 It does the following:
 
+The system accepts user input for age, BMI, blood pressure, cholesterol, and glucose, calculates a risk score, categorizes the risk. The user can continue entering multiple patients.
+
 Prompts the user to input six health-related values:
 
 Age (1–100 years)
